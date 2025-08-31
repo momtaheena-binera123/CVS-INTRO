@@ -1,6 +1,7 @@
 Image Processing Lab - Computer Vision Tasks
 This repository contains Python code for various image processing and computer vision tasks completed as part of Lab Assignment.
 Tasks Completed
+
 Task 1: Pixel Art Creation
 
 Created pixel art representations of letters 'M', 'O' and numbers '0', '7'
